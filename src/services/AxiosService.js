@@ -18,7 +18,7 @@ export const ottApi = Axios.create({
     language: 'english',
     type: 'movie',
     sort: 'latest',
-    page: '1'
+    page: '3'
   },
   headers: {
     'X-RapidAPI-Key': '8d7fde662cmshba23e9a52112375p19756ajsndc69e7d28c62',
